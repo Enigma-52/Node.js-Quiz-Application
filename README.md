@@ -18,7 +18,7 @@ This is a simple quiz application built using Node.js and Express.js. It tests u
 2. **Navigate to the project directory:**
 
    ```
-   cd Nodejs-Quiz-Application
+   cd Node.js-Quiz-Application
    ```
 
 3. **Install dependencies:**
