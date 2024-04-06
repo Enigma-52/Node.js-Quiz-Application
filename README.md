@@ -42,14 +42,7 @@ This is a simple quiz application built using Node.js and Express.js. It tests u
 
 ## Directory Structure
 
-- `public`: Contains static files (HTML, CSS) for the frontend.
+- `public`: Contains static files (HTML, CSS and Javascript) for the frontend.
 - `quiz.json`: JSON file containing quiz questions.
-- `server.js`: Node.js application file containing server setup and endpoints.
+- `app.js`: Node.js application file containing server setup and endpoints.
 
-## Contributing
-
-Contributions are welcome! Please follow the [GitHub Flow](https://guides.github.com/introduction/flow/) when making contributions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
