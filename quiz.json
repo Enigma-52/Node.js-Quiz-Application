@@ -1,0 +1,105 @@
+{
+    "questions": [
+      {
+        "question": "What is the main purpose of Node.js modules?",
+        "options": [
+          "To handle HTTP requests and responses",
+          "To interact with a database",
+          "To create user interfaces",
+          "To provide a way to organize code into reusable components"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which method is used to load modules in Node.js?",
+        "options": [
+          "import()",
+          "load()",
+          "include()",
+          "require()"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is the purpose of the 'exports' object in Node.js modules?",
+        "options": [
+          "To execute code asynchronously",
+          "To define the structure of the module",
+          "To expose functions or objects to be used in other modules",
+          "To handle file I/O operations"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following best describes the Node.js event loop?",
+        "options": [
+          "A feature for managing database connections",
+          "A tool for optimizing code performance",
+          "A data structure that stores information about incoming HTTP requests",
+          "A mechanism that handles asynchronous operations by executing callbacks when resources are available"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In Node.js, which function is used to execute code after a specified delay?",
+        "options": [
+          "nextTick()",
+          "setImmediate()",
+          "setInterval()",
+          "setTimeout()"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is a callback function in Node.js?",
+        "options": [
+          "A function used for rendering HTML templates",
+          "A function that calls itself recursively",
+          "A function that handles HTTP requests",
+          "A function passed as an argument to another function, which will be invoked later"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What does the 'fs' module in Node.js provide?",
+        "options": [
+          "Function scheduling",
+          "File system operations",
+          "Framework for building web servers",
+          "Feature for sending emails"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the purpose of the 'process' object in Node.js?",
+        "options": [
+          "To manage database connections",
+          "To define routes in a web application",
+          "To provide information about the current Node.js process",
+          "To handle user input"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How are asynchronous operations typically handled in Node.js?",
+        "options": [
+          "Using event emitters",
+          "Using synchronous functions",
+          "Using promises",
+          "Using callback functions"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is a common use case for callback functions in Node.js?",
+        "options": [
+          "Rendering HTML templates",
+          "Optimizing code performance",
+          "Handling asynchronous operations",
+          "Defining routes in a web application"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  }
+  
